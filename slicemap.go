@@ -1,4 +1,4 @@
-package tickdb
+package slicemap
 
 import (
 	"hash/fnv"
